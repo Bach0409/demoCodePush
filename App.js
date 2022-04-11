@@ -12,7 +12,7 @@ const App = () => {
   }
 
   return (
-    <View style={{ flex: 1, backgroundColor: 'red' }} >
+    <View style={{ flex: 1, backgroundColor: 'green' }} >
       <TouchableOpacity style={{ width: 1000, height: 300, backgroundColor: 'pink',alignSelf:'center' }} onPress={onButtonPress} >
 
       </TouchableOpacity>
