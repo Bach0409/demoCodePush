@@ -20,7 +20,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-*..keystore
+*.keystore
 
 # Android/IntelliJ
 #
@@ -41,6 +41,7 @@ buck-out/
 \.buckd/
 *.keystore
 !debug.keystore
+!my-release-key.keystore
 
 # fastlane
 #
